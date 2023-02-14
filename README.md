@@ -8,7 +8,9 @@ An overview of the program:
 Details:
 ---
   
-  Pufferfish Plugin need, see food4rhino
+  Pufferfish Plugin needed for version 1.00 (obsolete), see food4rhino
+  
+  No plugins needed for version 1.01!
   
   Units = (mm)
 
